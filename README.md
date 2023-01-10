@@ -1,6 +1,8 @@
 # Azure Machine Learning Managed Online Endpoints consumed by PowerApps
 This repo has contains a few artifacts as addition to the article on network-isolated managed online endpoints consumption by PowerApps. The article can be found [on Medium.com](https://medium.com/@onnovanderhorst/consuming-network-isolated-azure-machine-learning-managed-online-endpoints-from-power-apps-d058de4f3aab)
 
+![](/img/MediumArticle.jpg?raw=true)
+
 ## Structure of the repo
 The repo contains both configuration for  the Power App, Power Automate and data gateway configuration. For creation of managed online endpoints, I am referring to [the Microsoft documentation](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-secure-online-endpoint?tabs=cli%2Cmodel).
 
